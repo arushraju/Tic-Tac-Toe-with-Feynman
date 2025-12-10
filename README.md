@@ -39,6 +39,12 @@
                 After creating the superposition of all the states, I could actually construct the second layer of the tree, which involves determining where to make my next move. This could be achieved by further applying the Hadamard gate in some clever ways. However, this was not what I originally had in mind back then. For now, I have only explored the first depth of the tree. (If you are familier with chess engines, it means to have the depth of chess engine set to 1 for analysis)
             </p>
             <hr>
+            <p>
+                For detailed explanation about the code you can visit my github page <a href="" target="_blanck">Here</a>
+            </p>
+
+
+            
             <h2>Implementation</h2>
             <p>
             Now it is time to finally explain the code. The first step is to represent the Tic-Tac-Toe board programmatically, which I did as   follows. I have divided the explanation into three parts:
