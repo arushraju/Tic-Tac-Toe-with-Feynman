@@ -40,7 +40,7 @@
             </p>
             <hr>
             <p>
-                For detailed explanation about the code you can visit my github page <a href="" target="_blanck">Here</a>
+                For detailed explanation about the code you can visit my github page <a href="https://arushraju.github.io/Tic-Tac-Toe-with-Feynman/" target="_blanck">Here</a>
             </p>
 </body>
 </html>
