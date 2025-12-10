@@ -1,7 +1,4 @@
 <body>
-    <div class="go-back-button">
-        <a href="../../../Projects.html">Go Back</a>
-    </div>
     <div class="content-container"> 
         <div class="content">
             <h1>Tic Tac Toe with Feynman</h1>
